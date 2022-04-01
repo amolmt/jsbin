@@ -17,7 +17,6 @@ const spl = str.split("");
 //   }
 // });
 // console.log(output);
-
 /* using reduce */
 let output = {};
 spl.reduce((acc, curr) => {
